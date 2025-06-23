@@ -22,4 +22,5 @@ Mode manuel (sélection libre de p, d, q)
 🏁 Lancer l’application Pour lancer l'application , les instructions suivante sont necessaires: 
 
 pip install -r requirements.txt 
+
 streamlit run prevision_annuelle.py
