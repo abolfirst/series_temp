@@ -1,7 +1,7 @@
 streamlit==1.22.0
-pandas==1.5.0
-numpy==1.26.0
-plotly==6.1.2
-statsmodels==0.14.4
-scikit-learn==1.7.0
+pandas==2.0.3  # Version plus récente mais stable
+numpy==1.24.0  # Compatible avec pandas 2.x
+plotly==5.18.0  # Plus léger que plotly 6.x
+statsmodels==0.14.1  # Version testée avec scikit-learn 1.3+
+scikit-learn==1.3.2  # Version optimisée pour le cloud
 chardet==5.2.0
